@@ -1,4 +1,5 @@
 # Social-Media-app-blinkit
+<img src="./19199368.jpg" width="800" height="600"/>&nbsp;
 
 
 ##  Overview
