@@ -49,5 +49,5 @@ To provide a more detailed explanation, I can review the data in your Excel file
 5. Supermarkets generate higher sales volumes, while grocery stores have better item visibility
 
 ## Dashboard:
-<img src="./data analysis blinkit pic.png" width="500" height="600"/>&nbsp; 
+<img src="./data analysis blinkit pic.png" width="1000" height="600"/>&nbsp; 
 
