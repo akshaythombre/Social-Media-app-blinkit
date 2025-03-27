@@ -14,7 +14,7 @@ Presents dashboard for analyzing Blinkit's sales performance, customer satisfact
 4. **Average Rating**: Average customer rating for items sold
 
 ## blinkit
-<img src="./blinkit logo.png" width="200" height="300"/>&nbsp;
+<img src="./blinkit logo.png" width="200" height="400"/>&nbsp;
 
 ## Features
 
