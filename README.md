@@ -11,7 +11,10 @@ Presents dashboard for analyzing Blinkit's sales performance, customer satisfact
 1. **Total Sales**: Overall revenue generated from all items sold 
 2. **Average Sales**: Average revenue per sale 
 3. **Number of Items**: Total count of different items sold 
-4. **Average Rating**: Average customer rating for items sold 
+4. **Average Rating**: Average customer rating for items sold
+
+## blinkit
+<img src="./blinkit logo.png" width="200" height="200"/>&nbsp;
 
 ## Features
 
